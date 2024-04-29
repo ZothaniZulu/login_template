@@ -1,0 +1,21 @@
+body{
+    background-image:url('../images/background.jpg');
+    min-height: 100%;
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.form-container{
+    margin-top: 80px;
+    margin-bottom: 100px;
+    opacity: 0.85;
+}
+
+.documentation-container{
+    margin-top: 80px;
+    margin-bottom: 100px;
+    opacity: 0.87;
+}
