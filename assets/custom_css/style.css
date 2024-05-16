@@ -6,6 +6,10 @@ body{
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+
+
 }
 
 .form-container{
